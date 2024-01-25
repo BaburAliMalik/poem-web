@@ -1,0 +1,103 @@
+body{
+    background-color: #ffffff;
+}
+
+.container{
+    background-color: blueviolet;
+    text-align: center;
+    padding: 25px;
+   
+    
+}
+
+div{
+    display: block;
+}
+
+.para{
+    text-align: center;
+    color: teal;
+}
+
+p{
+    text-align: center;
+    font-size: 25px;
+    display: block;
+}
+
+.nav{
+    color: azure;
+    font-size: 25px;
+    text-decoration: none;
+    padding: auto auto;
+}
+
+.poem-1{
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+    font-weight: bold;
+    text-align: center;
+    font-size: 70px;
+}
+
+.poem-1::first-letter{
+    color: greenyellow;
+    font-size: 120px;
+}
+
+.red{
+    color:#ff0000 ;
+}
+/* poem2 */
+
+.poem-2{
+    font-family: 'Courier New', Courier, monospace;
+    color: chocolate;
+    font-weight: bold;
+    text-align: center;
+}
+
+.poem-2::first-letter{
+    color: yellow;
+    font-size: 120px;
+}
+
+/* poem-3 */
+.poem-3{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: bold;
+    color: #ff0000;
+    
+}
+
+.poem-3::first-letter{
+    color: green;
+    font-size: 120px;
+}
+
+.poem-4{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(255, 0, 255);
+    
+}
+
+.poem-4::first-letter{
+    color:blue;
+    font-size: 120px;
+}
+
+.poem-5{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(0, 255, 42);
+    
+}
+
+.poem-5::first-letter{
+    color: aqua;
+    font-size: 120px;
+}
